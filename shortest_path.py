@@ -1,8 +1,8 @@
 from math import factorial
  
-start = "AAAA"
+start = "CBAB"
 
-end = "BBBB"
+end = "ABCB"
  
 length = 0
  
