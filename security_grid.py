@@ -29,7 +29,6 @@ visited = [[False] * cols for _ in range(rows)]
 # Directions: up, down, left, right
 directions = [(-1, 0), (1, 0), (0, -1), (0, 1)]
  
- 
 def dfs(r, c):
     visited[r][c] = True
  
