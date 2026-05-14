@@ -8,4 +8,4 @@ Question 3:
 <img width="1926" height="968" alt="image" src="https://github.com/user-attachments/assets/99c46509-2258-4e44-a520-2fd3997a25cb" />
 
 Question 4:
-<img width="1889" height="1201" alt="image" src="https://github.com/user-attachments/assets/7cef21ad-ac3f-4a53-b0df-8ee0c306f6ed" />
+<img width="1934" height="1003" alt="image" src="https://github.com/user-attachments/assets/9f8b1c96-2285-4b6a-b195-d56b5d400cbc" />
